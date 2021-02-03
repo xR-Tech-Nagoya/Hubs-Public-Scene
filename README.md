@@ -1,4 +1,4 @@
-# Mozilla-Hubs-Public-Scene
+## Mozilla-Hubs-Public-Scene
 Hubs is an open source (MPLv2) and browser-powered VRSNS.
 It was released in April 2018 and is one of the products that are getting very much attention.
 
