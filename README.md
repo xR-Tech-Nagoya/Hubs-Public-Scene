@@ -6,9 +6,16 @@ Currently, while many creators are creating personal content for commercial use,
 
 In addition, we will publish the source of blend files, fbx, glTF, unity package, etc. for the production process.The various patterns will be built on my whims.  Who would like to join in the fun?
 
+##Scene1"sauna"(Still private
+)
+https://hub.link/9Kmdwk8
+
 ![demo](https://github.com/xR-Tech-Nagoya/Mozilla-Hubs-Public-Scene/blob/main/ezgif-1-830c725640fb.gif?raw=true)
 
-##変更履歴
+＜変更履歴＞
 
 2021/02/03
+
 ・sauna_202110129をアップロード
+
+・barroom_20210131をアップロード
