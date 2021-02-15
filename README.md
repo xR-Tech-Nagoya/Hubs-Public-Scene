@@ -1,3 +1,4 @@
+[![Stake to support us](https://badge.devprotocol.xyz/0xEb51F55A80E62D6dE7598d0963614A0c85692584/descriptive)](https://stakes.social/0xEb51F55A80E62D6dE7598d0963614A0c85692584)
 ## Hubs Public Scene
 Hubs is an open source (MPLv2) and browser-powered VRSNS.
 It was released in April 2018 and is one of the products that are getting very much attention.
